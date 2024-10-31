@@ -81,10 +81,6 @@ Comprehensive unit tests are included to verify:
 - Increment functionality
 - Value setting mechanism
 
-## License
-
-[Choose an appropriate license, e.g., MIT, Apache, etc.]
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
